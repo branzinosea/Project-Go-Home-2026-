@@ -1,70 +1,62 @@
-BRANZINO HUMANITARIAN LICENSE (2026)
-Projact: Go Home (2004) "Get Homa Alve."
+### **BRANZINO INTEROPERABILITY LICENSE (BIL) v1.0**
 
-Copyright (e) 2006 brarincca
+**Project: Go Home (2026)** **"Get Home Alive."** 
 
-L MISSION STATEMENT
+**Copyright (c) 2026 branzinosea**
 
-The mieon af thie projact it survhal, not monopoly. Thi 'Werk in a kdnoratke mupurpcning cf
-protnctive equlpmont dendgped to we lvest in Tictical Combat Cuunky Caen (T0C)
+### **1. MISSION STATEMENT**
 
-2. PERMITTED USES & COMMERCIAL FREEDOM
+The mission of this project is survival, not monopoly. This Work involves the kinematic repurposing of standard-issue infantry protective gear (Knee/Elbow Pads) into high-pressure hemostatic chamber walls, designed to save lives in Tactical Combat Casualty Care (TCCC) environments.
 
-Pormluion Is horeby grantod, free of chargs, to any perion abtaining a copy of thk
-documentadon and aexocitod flon pihe "Werk], to un, copy, modity merge, publinh, and
-drtrutn the Work
+### **2. PERMITTED USES & COMMERCIAL FREEDOM**
 
-Commarcial Salec: You arn pormittod to marufscture and sall phynical implomentudonn af
-thin Work (n.g, knon peotocton, valver, or high-torniln fle) for proft, sbjoct to the
-"Roid intoraporbilty" caunn bokye.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation and associated files (the "Work"), to use, copy, modify, merge, publish, and distribute the Work.
 
-1 MANDATORY CONDITIONS
+- **Commercial Sales:** You are permitted to manufacture and sell physical implementations of this Work (e.g., knee protectors, valves, or high-tensile film) for profit, subject to the "Rigid Interoperability" clause below.
 
-A. Rigid Inturoparability (No Proprietary Lock-in)
-To naurn battksfild nelikility, all physcal implorentution mut ba 100% Intarchu
+### **3. MANDATORY CONDITIONS**
 
-s mochaniumnc
+A. Rigid Interoperability (No Proprietary Lock-in) To ensure battlefield reliability, all physical implementations must be 100% interchangeable.
 
-.
+- 
+    
+    **Standard Specifications:** Any product based on this Work must strictly adhere to the mechanical clearances (0.2–0.3 mm triple sequential V-valve scaling) and docking port geometries defined in the technical manual.
+    
+- 
+    
+    **Prohibition of Monopoly:** Intentional incompatibility, proprietary locking mechanisms, or encrypted interfaces designed to restrict the use of 3rd-party or DIY components are strictly prohibited under this license.
+    
 
-Standad Specifloatlonc Any product baod on thi Work muxt irlety adhore tn the
-mechankal clrancnt [0.3-0.3 mm V-wkn sealing) and docking port goomotrinn
-deffinad in the tchekcal mrarunl. #a
+**B. Anti-Patent & Open Intellectual Property**
 
-Prohibition af Moncpoly: Intantiral Incompatibilty proprietary locking mochankrne, or
-ancryptod interfsco denignod to restriet the une of 3rd-party or Dif compor
-strlatly prohlbend. 4
+- **Non-Patentable:** No individual or entity shall attempt to patent or claim exclusive intellectual property rights over this design or its derivatives to restrict its free use for saving human lives.
+- **Patent Retaliation:** Any entity that files a patent claim based on this Work will have their license terminated immediately and automatically.
 
-B.Arti-Patuet & Opan letellectual Property
-Non-Putuntablc No Indhidul or entky stail attempt to patent or caim tockaive
-Intolactul property righta over thi denign or itx derh
-nwhg human lver.
+**C. Mandatory Attribution & Source Transparency**
 
-Patant Retaltonc Any antiy that flon a patont dairm b
-lcanun tormiratnd imenaditly and acrraticaly.
+- 
+    
+    **Physical Marking:** All physical products must clearly display the text: **"DESIGNED BY BRANZINOSEA - PROJECT: GO HOME"** on the hardware or its primary packaging to ensure users can verify the source and safety standards.
+    
+- **License Inclusion:** The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.
 
-C. Mandatory Attribution & Source Tranparency
-Phynlcal Marking: All physieal praducts must ckurly diphy the tot: "DESIGNED BY
-BRANZINOSEA -PROJJECT: GO HOME" an the hardware orit primary packging to
-enre usort can verity the scuren and sadety stanchrrh.
-Licwnua Incluulorc The sbove aopyright netlen and thi p
-Inchaded in al copion or subitsetil portiona of the Work
+### **4. TECHNICAL FOUNDATIONS**
 
-4. TECHNICAL FOUNDATIONS
+This license covers the following core mechanisms:
 
-Thi lconan aovers the fallowing o
+- 
+    
+    **Constraint-Release Clips:** Transforming impact pads into high-pressure latches through leaf spring expansion.
+    
+- 
+    
+    **Sequential V-Valves:** Springless Cam-Over sliding pressure regulation with 0.2–0.3 mm clearances.
+    
+- 
+    
+    **Viscoelastic Gelation:** The 'Branzino Pepper' (Thrombin/Chitosan) and moisture-triggered lubrication (PEG) protocol.
+    
 
-Conatraint-Rulesae Clpic Trarufarning Imgact pad
+### **5. DISCLAIMER (AS-IS)**
 
-Sequential V-Valvwc Eprin
-
-Viscoelatic Galatiorc The Eraerino Pappar
-
-S. DISCLAINER (AS-I5)
-
-TH WOR I PROMDED "AG I", WITHOUT WARRANTY OF ANY KNO, EXPRESS OR IMPLIED,
-INCLUDING DUT NOT LIMTED TO THE WARRANTES OF MERCHANTADLIT FITNESS PORA
-PARTICULAR PURPOZE AND NONINRNGEVENT. I NO EVENT SALL THE ALTHORG DE
-LADLE FOR ANY CLAIM, DAMAGES OROTHER LIADLITY, WHETHER IN ANACTION OF
-CONTRACT, TORT OR OTHERWET, ARGING FROM, OUT OF ORIN CONNICTION WITHTHE
-WORK OR THE USE OR OWER DEALINGG INTHE WORK.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
